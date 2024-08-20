@@ -1,15 +1,2 @@
 
-Title: Titanic Survival Prediction Model
-Description:
-This GitHub repository contains a machine learning model that predicts the survival chances of a five-passenger based on their age, ticket price, and sex. The model utilizes popular libraries such as:
-  Pandas for data manipulation and analysis
-  NumPy for numerical computations
-  PyTorch for building and training the neural network model
-  Matplotlib for data visualization
-The model was trained on the Titanic dataset and submitted to Kaggle, achieving a 50th percentile score. The repository includes:
-  Data preprocessing and exploration
-  Model development and training
-  Evaluation metrics and visualization
-  Kaggle submission and results
-Feel free to explore the repository, use the model, and contribute to improve its performance!
-;)
+This GitHub repository presents a machine learning model designed to predict the survival chances of passengers on the Titanic based on their age, ticket price, and sex. Utilizing popular libraries such as Pandas, NumPy, PyTorch, and Matplotlib, the model was developed and trained on the Titanic dataset. Following rigorous testing and evaluation, the model was submitted to Kaggle, achieving a notable 50th percentile score. The repository encompasses various stages of the project, including data preprocessing and exploration, model development and training, evaluation metrics, and visualization, as well as the Kaggle submission and results. By exploring this repository, users can gain insights into the project's methodology and findings, and even contribute to enhancing the model's performance.
