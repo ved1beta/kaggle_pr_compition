@@ -1,1 +1,3 @@
-# kaggle_pr_compition
+
+This GitHub repository presents a machine learning model designed to predict the survival chances of passengers on the Titanic based on their age, ticket price, and sex. Utilizing popular libraries such as Pandas, NumPy, PyTorch, and Matplotlib, the model was developed and trained on the Titanic dataset. Following rigorous testing and evaluation, the model was submitted to Kaggle, achieving a notable 50th percentile score. The repository encompasses various stages of the project, including data preprocessing and exploration, model development and training, evaluation metrics, and visualization, as well as the Kaggle submission and results. By exploring this repository, users can gain insights into the project's methodology and findings, and even contribute to enhancing the model's performance.
+![image](https://github.com/user-attachments/assets/bba34416-f3ff-4083-9cc4-8fadb55d5dfd)
